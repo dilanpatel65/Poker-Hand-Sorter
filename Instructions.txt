@@ -1,0 +1,11 @@
+The Language used to implement the solution is Java.
+In the GIT repository URL, you will find a rar file name Poker Hand Sorter.rar
+Extract it.
+
+
+To Build and Run the Solution.
+* Open any  integrated development environment (IDE) and select the java application where the program is saved.
+* Go to the Poker Hand Sorter folder >> src >> poker >> hand >> sorter >> select and open the PokerHandSorter.java
+* Run the file. It will be built and executed automatically.
+* The Solution(output) of the file named filename.txt will be added automatically in the Poker Hand Sorter folder.
+ 
